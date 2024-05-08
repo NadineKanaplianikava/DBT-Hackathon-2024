@@ -4,14 +4,13 @@ Hackathon:
     outputs:
         Snowflake_DB:
             type: snowflake
-            account: [JXGPFAR-REVOLT_PARTNER]
-            user: [USER_09]
-]
-            password: [Dataisthekey09!]
-            database: [HACKATHON]
-            warehouse: [HACKATHON_WH]
+            account: "JXGPFAR-REVOLT_PARTNER"
+            user: "USER_09"
+            password: "Veleska12"
+            database: "HACKATHON"
+            warehouse: "HACKATHON_WH"
 
 
-            schema: [TEAM_09]
+            schema: "TEAM_09"
             
         
