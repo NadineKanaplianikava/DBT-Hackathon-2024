@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
  SELECT 
     AVG(lifespan) AS average_lifespan
@@ -16,4 +17,11 @@ FROM (
 
 
 
+=======
+<<<<<<< HEAD
+select ID, LAST_ORDER_DATE
+from {{ref('model')}}
+>>>>>>> daaf857 (	modified:   models/example/sqlproject/model.sql)
 
+=======
+>>>>>>> 48bbebe (	modified:   models/example/sqlproject/model.sql)
