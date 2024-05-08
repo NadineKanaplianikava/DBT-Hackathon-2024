@@ -6,3 +6,5 @@ sources:
     schema: "DATA_SAMPLE"
     tables: 
     - name: "PIZZA_CUSTOMERS"
+    - name: "PIZZA_ORDERS"
+  
