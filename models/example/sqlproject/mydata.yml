@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: my_source
+    database: "HACKATHON"
+    schema: "DATA_SAMPLE"
+    tables: 
+    - name: "PIZZA_CUSTOMERS"
